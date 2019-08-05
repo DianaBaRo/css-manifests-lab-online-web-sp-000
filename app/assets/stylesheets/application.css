@@ -15,4 +15,5 @@
 *= require bootstrap-addon
 *= require hidden_styles
 *= require posts
+*= require pages
 */
